@@ -5,8 +5,8 @@ As simple example of C sockets handling for datagram and stream sockets.
 ## Compilation
 
 ```bash
-g client.c -o client
-g server.c -o server
+gcc client.c -o client
+gcc server.c -o server
 ```
 
 ## Running
